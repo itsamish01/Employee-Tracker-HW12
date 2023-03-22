@@ -1,4 +1,4 @@
-### Employee Tracker
+## Employee Tracker
 
 ## Overview
 Employee Tracker is a command-line Content Management System (CMS) that allows users to manage a company's employee data. It is built with Node.js, Inquirer, and MySQL, making it easy for non-developers to view and interact with information stored in a relational database.
